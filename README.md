@@ -27,9 +27,9 @@ Production ML pipeline predicting patient engagement likelihood for targeted hea
 
 ```
 Languages      Python · C++ · Dart · SQL
-ML/AI          PyTorch · XGBoost · scikit-learn · ONNX Runtime · AWS Bedrock
-Data           dbt · Redshift · PostgreSQL · Pandas
-Infrastructure AWS (SageMaker, Bedrock, S3, ECR) · Docker · GitHub Actions
+ML/AI          PyTorch · TensorFlow · XGBoost · scikit-learn · ONNX Runtime · AWS Bedrock
+Data           dbt · Redshift · PostgreSQL · Pandas · Polars
+Infrastructure AWS (SageMaker, Bedrock, S3, ECR) · Docker · Kubernetes · GitHub Actions
 Audio/DSP      JUCE · librosa · FFTW
 Frontend       Flutter · React
 ```
