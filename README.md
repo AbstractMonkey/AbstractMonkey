@@ -6,7 +6,7 @@ I come from a microbiology background, which means I think about complex systems
 
 **I love hard problems that live at the intersection of engineering craft and tangible impact.** The stuff I'm most proud of isn't always the most technically exotic — sometimes it's a well-designed RAG pipeline that gives leadership visibility they never had before, or a temporal windowing strategy that triples your usable training data overnight.
 
-When I'm not working, I'm projecting 5.13 routes and sending V7 boulders, or building instruments that didn't exist yesterday.
+When I'm not working, I'm projecting 5.13 routes and sending V8 boulders, or building instruments that didn't exist yesterday.
 
 ---
 
